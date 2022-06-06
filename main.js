@@ -70,7 +70,7 @@ function mykeydown(R){
     }
     if(w =='71'){
         console.log("G is pressed");
-        newimg('groung.png');
+        newimg('ground.png');
     }
     if(w =='76'){
         console.log("L is pressed");
